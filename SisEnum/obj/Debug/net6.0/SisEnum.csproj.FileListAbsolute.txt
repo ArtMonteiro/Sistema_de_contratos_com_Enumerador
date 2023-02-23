@@ -1,0 +1,15 @@
+C:\Users\artur\source\repos\SisEnum\SisEnum\bin\Debug\net6.0\SisEnum.exe
+C:\Users\artur\source\repos\SisEnum\SisEnum\bin\Debug\net6.0\SisEnum.deps.json
+C:\Users\artur\source\repos\SisEnum\SisEnum\bin\Debug\net6.0\SisEnum.runtimeconfig.json
+C:\Users\artur\source\repos\SisEnum\SisEnum\bin\Debug\net6.0\SisEnum.dll
+C:\Users\artur\source\repos\SisEnum\SisEnum\bin\Debug\net6.0\SisEnum.pdb
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.AssemblyInfo.cs
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.dll
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\refint\SisEnum.dll
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.pdb
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\SisEnum.genruntimeconfig.cache
+C:\Users\artur\source\repos\SisEnum\SisEnum\obj\Debug\net6.0\ref\SisEnum.dll
